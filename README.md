@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/d21f7b10-13a8-4e3a-a8ab-e5a36e7315ec" width="100"> 
+<img src="[https://github.com/user-attachments/assets/8981166a-8e56-4573-8720-5c09d565553b]" width="100"> 
 
 # Calories Burnt Prediction
 ## Project Overview
